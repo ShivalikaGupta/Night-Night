@@ -83,4 +83,11 @@ h1 {
     text-decoration: underline;
     }
  
- 
+a: link, a: visited, a: active {
+     color: white; 
+    
+}
+
+a: hover {
+    color: lightblue; 
+}
