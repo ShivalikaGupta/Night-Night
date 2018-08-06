@@ -1,0 +1,88 @@
+/*HTML CSS Day 5*/
+
+body {
+        background: url('Dark2.jpg'); 
+        background-size: cover; 
+        text-align: left;
+        font-family:Arial;
+        }
+
+h1 { 
+        font-family: 'Bungee Shade'; 
+        font-size: 90px;
+        color: white;
+        display: inline-block;
+        margin: 0;
+        padding: 0;
+        margin-top: -35px;
+        }
+
+hr {
+        margin-top: -30px;
+        }
+
+h2 {
+        color: white;
+        }
+    
+.container {
+        max-width: 960px;
+        width: 96%; 
+        margin: auto;
+        }
+
+img {
+        float: left;
+        width: 120px;
+        height: 100px;
+        margin-top: 35px;
+        margin-left: 30px;
+        }
+    
+nav {
+        float: right; 
+        line-height: 70px;
+        margin-top: 60px;
+        margin-right: 20px;
+        }
+    
+nav li { 
+        display: inline-block; 
+        margin-right: 10px;
+        line-height: normal;
+        }
+
+article {
+        color: white;
+        }
+
+ul li {
+        text-align: left;
+        color: white;
+        }
+
+nav a:link, nav a:visited, nav a:active {
+        color: black;
+        background: rgb(126, 126, 126);
+        padding-top: 20px; 
+        padding-bottom: 20px;
+        padding-left: 20px;
+        padding-right: 20px;
+        text-decoration: none;
+        }    
+
+nav a:hover {
+        color: rgb(72, 72, 72);
+        background: lightgrey;
+        padding-top: 20px; 
+        padding-bottom: 20px;
+        padding-left: 25px;
+        padding-right: 25px;
+        text-decoration: underline;
+        }
+
+.box {
+        
+        float: right;
+}
+    
