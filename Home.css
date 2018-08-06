@@ -23,8 +23,9 @@ hr {
 
 h2 {
         color: white;
+        font-size: 70px;
         }
-    
+
 .container {
         max-width: 960px;
         width: 96%; 
@@ -54,6 +55,7 @@ nav li {
 
 article {
         color: white;
+        font-size: 50px;
         }
 
 ul li {
