@@ -95,7 +95,7 @@ body {
     }
     
     p#sidebar2 {
-        color:#009FBC; 
+        color:#darkblueC; 
         margin-left: 0px;
     }
     
@@ -130,7 +130,7 @@ body {
     padding: 5px 0 0 0;}
     
     h4, h6
-    { color: #009FBC;
+    { color: darkblue;
     padding: 0 0 5px 0;
     font: normal 110% arial;
     text-transform: uppercase;}
